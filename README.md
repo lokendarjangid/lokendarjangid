@@ -4,7 +4,7 @@
 
 I'm Lokendar Jangid, a passionate self-taught full stack web developer from India.
 
-- 🔭 I’m currently working on [**Lokendarjangid**](https://github.com/lokendarjangid), my personal website and portfolio.
+- 🔭 I’m currently working on [**Lokendarjangid**](https://lokendarjangid.github.io), my personal website and portfolio.
 - 🌱 I’m currently learning **Machine Learning** and exploring its applications in web development.
 - 🤔 I’m looking for help with **Flutter**, as I'm interested in building mobile apps with this framework.
 - 💬 Ask me about **Python**, which is my favorite programming language and the one I use most frequently.

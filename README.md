@@ -14,13 +14,13 @@ I'm Lokendar Jangid, a passionate self-taught full stack web developer from Indi
 
 ## 📊 My GitHub Stats
 
-[![Lokendar Jangid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokendarjangid&show_icons=true&theme=radical)]
+![Lokendar Jangid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokendarjangid&show_icons=true&theme=radical)
 
 ## 🚀 Languages and Tools
 
 These are some of the languages, tools, and frameworks I'm familiar with:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokendarjangid&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokendarjangid&layout=compact&theme=radical)
 
 <!--- List of tools and frameworks here --->
 * **Languages:** Python, JavaScript, HTML/CSS, Dart

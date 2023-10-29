@@ -16,6 +16,10 @@ I'm Lokendar Jangid, a passionate self-taught full stack web developer from Indi
 
 ![Lokendar Jangid's GitHub stats](https://github-readme-stats.vercel.app/api?username=lokendarjangid&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokendarjangid&theme=radical" alt="lokendarjangid" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokendarjangid" alt="lokendarjangid" /></a> </p>
+
 ## 🚀 Languages and Tools
 
 These are some of the languages, tools, and frameworks I'm familiar with:

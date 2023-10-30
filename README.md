@@ -18,7 +18,7 @@ I'm Lokendar Jangid, a passionate self-taught full stack web developer from Indi
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lokendarjangid&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lokendarjangid&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=lokendarjangid&theme=radical)
 
 ## 🚀 Languages and Tools
 

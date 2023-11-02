@@ -20,6 +20,9 @@ I'm Lokendar Jangid, a passionate self-taught full stack web developer from Indi
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lokendarjangid&theme=radical)
 
+## Badges
+[![An image of @lokendarjangid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lokendarjangid)](https://holopin.io/@lokendarjangid)
+
 ## 🚀 Languages and Tools
 
 These are some of the languages, tools, and frameworks I'm familiar with:

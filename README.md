@@ -26,9 +26,6 @@ I'm Lokendar Jangid, a passionate self-taught full stack web developer from Indi
 ## 🚀 Languages and Tools
 
 These are some of the languages, tools, and frameworks I'm familiar with:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokendarjangid&layout=compact&theme=radical)
-
 <!--- List of tools and frameworks here --->
 * **Languages:** Python, JavaScript, HTML/CSS, Dart
 * **Backend:** Flask
